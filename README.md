@@ -1,4 +1,3 @@
 # Wikipedia bot
-Wikipedia in telegram bot
 Wikipedia in python telegram bot
-If you want to contact me and discuss the code, then write in telegram https://t.me/DblNY
+If you want to contact with me and discuss the code, then write in telegram https://t.me/DblNY
